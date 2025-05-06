@@ -40,21 +40,20 @@ This project was crafted using both EasyEDA and KiCad:
 
 ### 🖥️ PCB Design Overview
 
-![PCB Design Preview](assets/pcb_design_preview.gif)
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/acd837e2-19a2-40ff-b5b4-2487deb73ae0)
 
-*An animated overview of the PCB layout showcasing component placement and routing.*
+
+![Screenshot 2025-05-06 195944](https://github.com/user-attachments/assets/b3d035aa-5a28-46e6-9e67-8217fe648cd8)
+
+
+
 
 ### 🦇 Batman-Themed Variant
 
-![Batman Edition Preview](assets/batman_edition_preview.gif)
+![2025-05-0620-00-10-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bb44838f-89f8-4914-aa1f-84c9ffa41b64)
+
 
 *A special edition of the USB hub PCB featuring a Batman-themed design.*
-
-### 📜 Schematic Diagram
-
-![Schematic Diagram](assets/schematic_diagram.png)
-
-*The schematic representation of the USB hub circuit.*
 
 ---
 
