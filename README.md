@@ -1,8 +1,6 @@
 # 🦇 USB Hub PCB: 2x USB-C & 2x USB-A
 
-A custom-designed 4-port USB hub PCB featuring 2 USB Type-C and 2 USB Type-A ports. This compact, bus-powered hub is optimized for portability and efficient USB expansion. Additionally, a special Batman-themed variant adds a unique flair to the design.
-
----
+A custom-designed 4-port USB hub PCB featuring 2 USB Type-C and 2 USB Type-A ports. This compact, bus-powered hub is optimized for portability and efficient USB expansion.
 
 ## 🔧 Features
 
@@ -48,14 +46,7 @@ This project was crafted using both EasyEDA and KiCad:
 
 
 
-### 🦇 Batman-Themed Variant
 
-![2025-05-0620-00-10-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/bb44838f-89f8-4914-aa1f-84c9ffa41b64)
-
-
-*A special edition of the USB hub PCB featuring a Batman-themed design.*
-
----
 
 ## 🛠️ Assembly Instructions
 
@@ -85,4 +76,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ---
 
-Designed with 🖤 by Adarsh D (BATMAN)
+Designed with 🖤 by Adarsh D 
