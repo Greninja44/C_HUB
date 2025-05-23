@@ -11,7 +11,6 @@ A custom-designed 4-port USB hub PCB featuring 2 USB Type-C and 2 USB Type-A por
 - **USB Standard**: USB 2.0 compliant
 - **Compact Design**: Optimized for minimal footprint
 - **ESD Protection**: Integrated protection for all ports
-- **Special Edition**: Batman-themed PCB variant
 
 ---
 
