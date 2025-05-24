@@ -37,12 +37,11 @@ This project was crafted using both EasyEDA and KiCad:
 
 ### 🖥️ PCB Design Overview
 
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/acd837e2-19a2-40ff-b5b4-2487deb73ae0)
-
 
 ![Screenshot 2025-05-06 195944](https://github.com/user-attachments/assets/b3d035aa-5a28-46e6-9e67-8217fe648cd8)
 
 
+![top 2](https://github.com/user-attachments/assets/57215d93-994a-4f55-9b86-e1665b427a5e)
 
 
 
